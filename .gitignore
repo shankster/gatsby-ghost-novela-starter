@@ -58,7 +58,7 @@ typings/
 
 # dotenv environment variables file
 .env
-.ghost.json
+# .ghost.json
 
 # IDE
 .idea/*
@@ -74,9 +74,5 @@ typings/
 public
 yarn-error.log
 .netlify/
-<<<<<<< HEAD
-
 
 .env.*
-=======
->>>>>>> 5aabed8b04b189bc6e3111659d05be52c964befd
