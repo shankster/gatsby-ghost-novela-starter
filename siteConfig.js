@@ -59,7 +59,7 @@ module.exports = {
     facebook: "https://facebook.com/",
     instagram: "https://www.instagram.com/",
     linkedin: "https://linkedin.com",
-    github: "https://github.com/draftbox-co",
+    github: "https://github.com/shankster",
     pinterest: "",
     youtube: "",
     dribbble: "",
