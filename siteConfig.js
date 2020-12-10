@@ -1,46 +1,46 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://mostlyatechnicalblog.com",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "Mostly a Technical Blog",
   siteDescriptionMeta:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "Ideas, thoughts and more",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
+  shortTitle: "MATB",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
-  apiUrl: "https://ghost.theasdfghjkl.com",
+  apiUrl: "https://ghost-3-blog.herokuapp.com",
   header: {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://mostlyatechnicalblog.com/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://mostlyatechnicalblog.com/contact",
       },
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "Mostly a Technical Blog",
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://mostlyatechnicalblog.com/",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://mostlyatechnicalblog.com/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
+        url: "https://mostlyatechnicalblog.com/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://mostlyatechnicalblog.com/contact",
       },
       {
         label: "External Link",
@@ -50,15 +50,15 @@ module.exports = {
   },
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Built with Draftbox",
+    title: "Subscribe to MATB",
     helpText: "Get the latest posts delivered right to your inbox.",
-    successMessage: "Thanks for subscribing to Built with Draftbox.",
+    successMessage: "Thanks for subscribing to Mostly a Technical Blog",
   },
   socialLinks: {
-    twitter: "https://twitter.com/draftboxhq",
+    twitter: "https://twitter.com/init5n",
     facebook: "https://facebook.com/",
-    instagram: "https://www.instagram.com/",
-    linkedin: "https://linkedin.com",
+    instagram: "https://www.instagram.com/nilotpalrc",
+    linkedin: "https://linkedin.com/in/nilotpal-roychowdhury",
     github: "https://github.com/shankster",
     pinterest: "",
     youtube: "",
@@ -68,33 +68,33 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
-    successMessage: "We’ll get in touch with you soon.",
+    title: "Contact Me",
+    successMessage: "I’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "Mostly a Technical Blog",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Ideas, thoughts and more",
   },
   twitterCard: {
-    title: "Built with Draftbox",
+    title: "Mostly a Technical Blog",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Ideas, thoughts and more",
     imageUrl: "twitterImage.png",
-    username: "@DraftboxHQ",
+    username: "@init5n",
   },
   facebookCard: {
-    title: "Built with Draftbox",
+    title: "Mostly a Technical Blog",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Ideas, thoughts and more",
     imageUrl: "facebookImage.png",
     appId: "",
     width: 1000,
     height: 523,
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "Mostly a Technical Blog",
   siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "Ideas, thoughts and more",
   language: "en",
   logoUrl: "logo.svg",
   iconUrl:
